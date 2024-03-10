@@ -54,4 +54,4 @@ README File:
 Setup instructions:
 Install dependencies (npm install)
 Configure environment variables (e.g., MongoDB connection string, JWT secret, PORT)
-Start the application (npm start || node server.js --check all routes using POSTMAN	)
+Start the application (npm start || node server.js --check all APis using POSTMAN	)
