@@ -41,7 +41,7 @@ ROUTES :
 				app.use('/api/posts', postRoutes);
 				app.use('/api/follows', followRoutes);
 
-	APIs:
+APIs:
  http://localhost:5000/api/auth/signup  ------------------------------>  For signup 
  http://localhost:5000/api/auth/login   ------------------------------>  For login
  http://localhost:5000/api/posts     --------------------------------->  For creating a new post and Reading the post
